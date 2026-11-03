@@ -1,0 +1,1 @@
+"""LabSentinel LIMS core."""

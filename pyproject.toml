@@ -1,0 +1,9 @@
+[project]
+name = "lims-core"
+version = "0.1.0"
+description = "LabSentinel LIMS: a configurable, GxP-oriented laboratory information management core"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
